@@ -61,8 +61,8 @@ graph-api/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/graph-api.git
-cd graph-api
+git clone https://github.com/kaiocolombari/GraphPythonAPI.git
+cd GraphPythonAPI
 ````
 
 2. **Crie e ative um ambiente virtual**
