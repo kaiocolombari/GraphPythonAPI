@@ -1,4 +1,3 @@
-```markdown
 # 📊 Graph API - API de Gráficos Analíticos
 
 Uma API desenvolvida em Python usando **FastAPI**, que permite gerar gráficos analíticos, calcular estatísticas básicas e manipular arquivos CSV. Ideal para integrar em diferentes projetos, aplicativos ou dashboards.
@@ -32,8 +31,6 @@ Uma API desenvolvida em Python usando **FastAPI**, que permite gerar gráficos a
 ---
 
 ## 🗂 Estrutura do Projeto
-
-```
 
 graph-api/
 ├── main.py
