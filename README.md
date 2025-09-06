@@ -32,6 +32,7 @@ Uma API desenvolvida em Python usando **FastAPI**, que permite gerar gráficos a
 
 ## 🗂 Estrutura do Projeto
 
+```
 graph-api/
 ├── main.py
 ├── app/
